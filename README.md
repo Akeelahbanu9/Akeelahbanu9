@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Akeela Banu 👋
 
-<!--
-**Akeelahbanu9/Akeelahbanu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with experience in:
 
-Here are some ideas to get you started:
+- 🌐 Web Development
+- 🛠️ Backend Development
+- 📊 Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- [Project One](link-to-project) - A description of project one.
+- [Project Two](link-to-project) - A description of project two.
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 💬 Get in Touch
+
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+
